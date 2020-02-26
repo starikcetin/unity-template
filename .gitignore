@@ -59,10 +59,9 @@ Thumbs.db
 !**/manifest.json
 
 # Nuget for unity packages folder
-**/Assets/Packages/*
+**/Assets/Packages/
+**/Assets/Packages.meta
 
 # TextMesh Pro auto-generated stuff
-**/Assets/TextMesh Pro*
-
-# Placeholder file for ignored directories
-!**/.placeholder*
+**/Assets/TextMesh Pro/
+**/Assets/TextMesh Pro.meta
