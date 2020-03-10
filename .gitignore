@@ -55,7 +55,7 @@ Thumbs.db
 
 
 # UPM packages folder
-**/[Pp]ackages/*
+**/[Pp]ackages/.*/*
 !**/manifest.json
 
 # Nuget for unity packages folder
